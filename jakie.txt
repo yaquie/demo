@@ -1,1 +1,3 @@
 new file example of jakie
+-- readme 1
+-- adding more changes in working directory
